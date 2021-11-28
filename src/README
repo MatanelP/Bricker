@@ -6,7 +6,7 @@ NOTES:
 ---- GAME OBJECTS ----
 
  ** Ball
-    A basic game object with a velocity that is being flipped on every collision.
+    A basic game object with a certain velocity that is being flipped on every collision.
 
 ** BallCollisionCountdownAgent
     A game object which holds an Owner of type strategy that is looking to see when the ball collided
